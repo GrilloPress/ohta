@@ -8,9 +8,9 @@ The client's main goal is to increase levels of staff engagement and satisfactio
 
 ## Features
 
-Staff can thank other staff for their work
-Staff can thank groups together
-Staff can be thanked and their manager informed
-Staff can write personal messages of thanks
-Staff can choose from predetermined images for their cards
-Staff can vote (like/+1) other messages
+- Staff can thank other staff for their work
+- Staff can thank groups together
+- Staff can be thanked and their manager informed
+- Staff can write personal messages of thanks
+- Staff can choose from predetermined images for their cards
+- Staff can vote (like/+1) other messages
